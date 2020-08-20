@@ -16,7 +16,7 @@
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/Oppadayo/proffy/stargazers">
+   <a href="https://github.com/Oppadayo/form-validator/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/Oppadayo/form-validator?style=social">
   </a>
 </p>
